@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+.env/
+__pycache__/
+
+# Ignore Python artifacts
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore large data/model files
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.zip
+*.tar
+*.tar.gz
+*.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+!glow_ai_mobilenet1.h5 
