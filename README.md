@@ -5,7 +5,7 @@ Glow AI is an intelligent skin analysis tool that combines quiz-based insights a
 ---
 
 ## 🔍 How It Works
-
+a
 1. **Answer a few simple questions** about your skin routine and behavior.
 2. **Upload or capture a skin photo** using your camera or device.
 3. Glow AI’s trained model (MobileNetV2) and smart logic will:
